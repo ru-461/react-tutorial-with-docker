@@ -8,7 +8,7 @@ const Header = () => {
       <p>Hello React Again</p>
       <a
         className="App-link"
-        href="https://reactjs.org"
+        href="https://ja.reactjs.org"
         target="_blank"
         rel="noopener noreferrer"
       >
